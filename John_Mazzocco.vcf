@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mazzocco;John;;;
+FN:John Mazzocco
+ORG:Bluedot Communications LLC;
+EMAIL;type=INTERNET;type=WORK;type=pref:johnm@gobluedot.com
+TEL;type=WORK;type=pref:(503) 702-6811
+item1.ADR;type=WORK;type=pref:;;2174 NW Aspen Ave.;Portland;Oregon;97210;USA
+item1.X-ABADR:us
+item2.URL;type=pref:www.gobluedot.com
+item2.X-ABLabel:_$!<HomePage>!$_
+CATEGORIES:
+X-ABUID:FD6083E6-44B8-11DA-B606-000D9337EFA2\:ABPerson
+END:VCARD
